@@ -1,6 +1,6 @@
 # HTML Project Tutorial - Event Page, Tables, and Forms
 
-Welcome to the HTML Project Tutorial repository! This repository contains the starter and final code for two complete projects that will be covered in a YouTube tutorial series. The tutorial series aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
+Welcome to the HTML Project Tutorial repository! This repository contains the starter and final code for two complete projects that will be covered in a github. The tutorial aims to provide comprehensive knowledge about HTML and guide you through building two exciting projects: an Event Page and a project focused on Tables and Forms.
 
 ## Project 1: Event Page
 
@@ -54,6 +54,6 @@ If you find any bugs, have suggestions for improvements, or want to add more fea
 
 ## About the Author
 
-This tutorial series is created and presented by [Agnel John](https://www.youtube.com/@ErrorMakesClever), a passionate web developer with a goal to share knowledge and help others learn HTML effectively.
+This tutorial series is created and presented by Thalavai Manikandan, a passionate AI developer to Python FullStack developer with a goal to share knowledge and help others learn HTML effectively.
 
 Enjoy the journey of learning HTML and building exciting projects with us! Happy coding! 🚀🎉
